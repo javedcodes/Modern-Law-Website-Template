@@ -1,0 +1,120 @@
+@media(min-width:3000px){
+	.container{
+		max-width: 2900px;
+	}
+
+
+	a.logo img{
+		width: 12vw;
+	}
+	header.fixed a.logo img{
+		width: 10vw;
+	}
+
+
+	nav li{
+		font-size: 0.9vw;
+		margin-right: 1vw;
+	}
+
+
+	a.phone{
+		margin-left: 1vw;
+		padding: 0.7vw 1.2vw;
+		font-size: 0.9vw;
+	}
+
+
+
+	.banner{
+		padding: 10vw 0 5vw 0;
+	}
+	.bannertext h1{
+		font-size:3.3vw;
+	}
+	.banner img.aspectratio_16_10{
+		aspect-ratio: 16/8;
+	}
+
+
+
+	.about{
+		padding: 5vw 0;
+	}
+	.about .text h2{
+		font-size: 4vw;
+	}
+	.about .text p{
+		font-size: 1vw;
+		line-height: 160%;
+	}
+
+
+
+
+	.practiceareas{
+		padding:4vw 0 1vw 0;
+	}
+	.practiceareas h2{
+		font-size: 4vw;
+		margin-bottom: 3vw;
+	}
+	.pitemswrap .pitem h3{
+		color: #fff;
+		font-size: 1.2vw;
+		margin-bottom: 1vw;
+	}
+	.pitemswrap .pitem p{
+		font-size: 0.9vw;
+	}
+
+
+
+
+	.testimonials{
+		padding:4vw 0;
+	}
+	.testimonials h2{
+		font-size: 4vw;
+		margin-bottom: 2vw;
+	}
+	.t_items_wrap .item .itemtext p{
+		font-size: 1vw;
+		margin-bottom: 1.2vw;
+	}
+	.t_items_wrap .item .itemtext h4{
+		font-size: 1.3vw;
+	}
+	.t_items_wrap .item .itemtext h5{
+		font-size: 1vw;
+	}
+
+
+
+
+	.contact{
+		padding:4vw 0;
+	}
+	.contact h2{
+		font-size: 4vw;
+		margin-bottom: 2vw;
+	}
+	.contact h4{
+		font-size: 1.1vw;
+	}
+	.map iframe{
+		height: 29vw;
+	}
+
+
+
+	footer{
+		padding: 4vw 0;
+	}
+	footer .copyright{
+		font-size:1.05vw;
+	}
+	footer .social{
+		font-size:1.05vw;
+	}
+}
